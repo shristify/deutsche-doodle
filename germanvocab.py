@@ -19,7 +19,7 @@ def german():
                           )
     print(message.sid)
 
-schedule.every(1).minute.do(german)
+schedule.every(2).hours.do(german)
 
 while True:
     schedule.run_pending()
