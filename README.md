@@ -1,6 +1,6 @@
 # deutsche-doodle
 
-![I learn German](https://github.com/confusedcoder1/deutsche-doodle/HeaderImage.png)
+![I learn German](https://github.com/confusedcoder1/deutsche-doodle/HeaderImage.jpg)
 
 ### OBJECTIVE: To help learn German faster
 
